@@ -5,9 +5,10 @@ xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### I'm 小曹同学
+<img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
 
 - 一个正在学习前端网络工程专业的大三学生
-<img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
+-------- 
 ### 关于我
 - [博客网站：小曹的百草园](https://www.xiaocao.cloud)
 - [掘金](https://juejin.cn/user/3342149723885038)

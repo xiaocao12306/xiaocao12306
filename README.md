@@ -4,7 +4,7 @@
 xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" alt="GIF" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
+<img align="right top" alt="GIF" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
 
 ### I'm 小曹同学
 

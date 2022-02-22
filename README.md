@@ -1,12 +1,12 @@
 ### Xiaocao's Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=MyBlog)](https://github.com/xiaocao12306/MyBlog)
+
+<img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
 <!---
 xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ### I'm 小曹同学
-<img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
-
 - 一个正在学习前端网络工程专业的大三学生
 -------- 
 ### 关于我

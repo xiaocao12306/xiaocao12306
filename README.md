@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @xiaocao
-- 🌱 I’m currently learning Front-End 
-- 📫 How to reach me:
-  - 1️⃣ 3027478654@qq.com
-  - 2️⃣ www.xiaocao.cn@gmail.com
-  - 3️⃣QQ:3027478654
-
-- 🔗 My Blog www.xiaocao.cloud
-
-[![Xiaocao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocao12306&show_icons=true)](https://github.com/xiaocao12306/github-readme-stats)
-
 ### Xiaocao's Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=github-readme-stats)](https://github.com/xiaocao12306/github-readme-stats)
 <!---
 xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="right" alt="GIF" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" />
+
+### I'm 小曹同学
+
+- 一个正在学习前端网络工程专业的大三学生
+### 关于我
+- [博客网站：小曹的百草园](https://www.xiaocao.cloud)
+- [掘金](https://juejin.cn/user/3342149723885038)
+- [邮箱](3027478654@qq.com)
+
+> ***立志做一个普通的前端开发***
+[![Xiaocao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocao12306&show_icons=true)](https://github.com/xiaocao12306/github-readme-stats)

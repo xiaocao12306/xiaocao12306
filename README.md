@@ -7,7 +7,10 @@
 
 - 🔗 My Blog www.xiaocao.cloud
 
-[![Xiaocao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocao12306)](https://github.com/xiaocao12306/github-readme-stats)
+[![Xiaocao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocao12306&show_icons=true)](https://github.com/xiaocao12306/github-readme-stats)
+
+### Xiaocao's Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=github-readme-stats)](https://github.com/xiaocao12306/github-readme-stats)
 <!---
 xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

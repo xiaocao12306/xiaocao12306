@@ -1,8 +1,8 @@
-<img 
-     src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" width="300px" style="border-radius:10px;box-shadow:4px 4px  6px rgba(0,0,0,.1);float:left;padding:16px;" />
-
 ### I'm 小曹同学
 - 一个正在学习前端网络工程专业的大三学生
+
+<img align="right"
+     src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" width="400px" style="border-radius:10px;box-shadow:4px 4px  6px rgba(0,0,0,.1);float:left;padding:16px;" />
 
 ### Xiaocao's Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=MyBlog)](https://github.com/xiaocao12306/MyBlog)

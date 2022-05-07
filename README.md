@@ -1,13 +1,14 @@
 ### Xiaocao's Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=MyBlog)](https://github.com/xiaocao12306/MyBlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=Fpga_defect_detection_system)](https://github.com/xiaocao12306/Fpga_defect_detection_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=Vue3-TailwindscssTemplate)](https://github.com/xiaocao12306/Vue3-TailwindscssTemplate)
 
-<!-- <img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" /> -->
+<img align="right" src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" width="300px" height="300px" />
 
-<!---
+-
 xiaocao12306/xiaocao12306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-
 
 ### I'm 小曹同学
 - 一个正在学习前端网络工程专业的大三学生

@@ -1,9 +1,6 @@
 ### I'm 小曹同学
 - 一个正在学习前端网络工程专业的大三学生
 
-<img align="right"
-     src="https://pic-xiaocao123-1304191709.cos.ap-guangzhou.myqcloud.com/GitHub.jpg" width="200px" />
-
 ### Xiaocao's Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=MyBlog)](https://github.com/xiaocao12306/MyBlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=Fpga_defect_detection_system)](https://github.com/xiaocao12306/Fpga_defect_detection_system)

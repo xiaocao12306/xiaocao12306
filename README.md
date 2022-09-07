@@ -1,11 +1,5 @@
 ### I'm 小曹同学
 - 一个正在学习前端网络工程专业的摆烂大师
-
-### Xiaocao's Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=MyBlog)](https://github.com/xiaocao12306/MyBlog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=Fpga_defect_detection_system)](https://github.com/xiaocao12306/Fpga_defect_detection_system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaocao12306&repo=Vue3-TailwindscssTemplate)](https://github.com/xiaocao12306/Vue3-TailwindscssTemplate)
-
 ### 关于我
 - [博客网站：小曹的百草园](https://www.xiaocao.cloud)
 - [掘金](https://juejin.cn/user/3342149723885038)

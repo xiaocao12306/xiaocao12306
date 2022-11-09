@@ -1,7 +1,7 @@
 ### I'm 小曹同学
 - 一个正在学习前端网络工程专业的摆烂大师
 ### 关于我
-- [博客网站：小曹的百草园](https://www.xiaocao.cloud)
+- [博客网站：小曹的百草园](https://www.lexiscao.cn)
 - [掘金](https://juejin.cn/user/3342149723885038)
 - [邮箱](3027478654@qq.com)
 

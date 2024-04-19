@@ -1,7 +1,7 @@
 ### I'm 小曹同学
 - 一个正在学习前端的普通人 An ordinary person who is learning from the front end. 
 ### 关于我 | About me
-- [博客网站：小曹的百草园 | My blog ](https://lexiscao.cn)
+- [博客网站：小曹的百草园 | My blog ](https://xiaocao-blog.vercel.app/)
 - [掘金 | Juejin](https://juejin.cn/user/3342149723885038)
 - [邮箱 | QQ Email](3027478654@qq.com)
 - [邮箱 | Google Email](www.xiaocao.cn@gmail.com)
